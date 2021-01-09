@@ -30,10 +30,9 @@ const dataLoader = async ( req, res = response ) => {
     }
 //    ok:true,
 //    googleUser,
-    res.json ({
-
+    res.json (
         baseFile 
-    });
+    );
 
 }
 
