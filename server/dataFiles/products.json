@@ -1,5 +1,5 @@
-{"Productos": [
-        {
+{   
+    "P1" : {
             "ID_Producto": "MIX20",
             "Flag_Activado_Numero": "1",
             "Titulo": "MIX Para 2",
@@ -140,7 +140,7 @@
                 }
             ]
         },
-        {
+        "P2" : {
             "ID_Producto": "PROM1",
             "Flag_Activado_Numero": "1",
             "Titulo": "Promo #1",
@@ -251,7 +251,7 @@
                 }
             ]
         },
-        {
+        "P3" : {
             "ID_Producto": "PROM2",
             "Flag_Activado_Numero": "1",
             "Titulo": "Promo #2",
@@ -377,7 +377,7 @@
                 }
             ]
         }, 
-        {
+        "P4" : {
             "ID_Producto": "CADU1",
             "Flag_Activado_Numero": "1",
             "Titulo": "Cajita Dulzona",
@@ -458,7 +458,7 @@
                 }
             ]
         },
-        {
+        "P5" : {
             "ID_Producto": "PRDU1",
             "Flag_Activado_Numero": "1",
             "Titulo": "Promo Dulce #1",
@@ -524,7 +524,7 @@
                 }
             ]
         },
-        {
+        "P6" : {
             "ID_Producto": "PRDU2",
             "Flag_Activado_Numero": "1",
             "Titulo": "Promo Dulce #2",
@@ -589,5 +589,5 @@
                 }
             ]
         }        
-    ]
+    
 }
