@@ -1,7 +1,4 @@
-{
-    "Archivo": "Archivo Configuración Base App Rellenitos Delivery",
-    "Version": "1.0.0",
-    "Promociones": [
+[
         {
             "ID_Producto": "MIX20",
             "Flag_Activado_Numero": "1",
@@ -592,13 +589,4 @@
                 }
             ]
         }        
-    ],
-    "Configuracion": {
-        "Mantencion_Flag_Numero": "0",
-        "Mantencion_Mensaje": "Estamos actualizando nuestros precios. Volveremos en Pocos Minutos",
-        "Moneda_Nombre": "Pesos",
-        "Moneda_Simbolo_1": "$",
-        "Moneda_Simbolo_2": "e.m.n",
-        "Descuento_Simbolo": "%"
-    }
-}
+    ]
