@@ -6,11 +6,20 @@ const bodyParser = require('body-parser');
 
 const port = process.env.PORT || 3000;
 
+// Configurar cabeceras y cors
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
+    res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
+    next();
+});
+
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(bodyParser.json());
 
-app.use('/', require('./routes/utils'));
+//app.use('/', require('./routes/utils'));
 /*
 app.get('/', function (req, res) {
     //res.send('Hola Mundo');
@@ -18,6 +27,17 @@ app.get('/', function (req, res) {
 
 })
 */
+
+app.use('/', require('./routes/utils-zurich'));
+/*
+app.get('/zurich', function (req, res) {
+    //res.send('Hola Mundo');
+    
+    //res.send('Despliegue usuarios HTML');
+    res.json('Despliegue Contratantes JSON');
+})
+*/
+
 
 app.get('/usuario', function (req, res) {
     //res.send('Hola Mundo');
@@ -59,3 +79,9 @@ app.delete('/usuario',  function(req, res) {
 app.listen(port, () => { 
     console.log(`Escuchando puerto : ${ port}`);
 });
+
+
+
+
+
+
