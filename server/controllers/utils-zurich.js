@@ -33,9 +33,9 @@ const desplegarCG = async ( req, res = response ) => {
 
 //    ok:true,
 //    googleUser,
-        res.status(200).json({
+        res.status(200).json(
             objResultado
-        });
+        );
 }
 
 const actualizarCG = async ( req, res = response ) => {
