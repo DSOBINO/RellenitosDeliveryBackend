@@ -40,10 +40,10 @@ const desplegarCG = async ( req, res = response ) => {
 
 const actualizarCG = async ( req, res = response ) => {
     const ID        = req.body.ID;
-    const rut       = req.body.rut;
-    const campo1    = req.body.campo1;
-    const campo2    = req.body.campo2;
-    const campo3    = req.body.campo3;
+    const rut       = req.body.Rut;
+    const campo1    = req.body.Campo1;
+    const campo2    = req.body.Campo2;
+    const campo3    = req.body.Campo3;
     if ( !ID )
     {
         return res.json({
@@ -63,10 +63,10 @@ const actualizarCG = async ( req, res = response ) => {
 }
 
 const insertarCG = async ( req, res = response ) => {
-    const rut       = req.body.rut;
-    const campo1    = req.body.campo1;
-    const campo2    = req.body.campo2;
-    const campo3    = req.body.campo3;
+    const rut       = req.body.Rut;
+    const campo1    = req.body.Campo1;
+    const campo2    = req.body.Campo2;
+    const campo3    = req.body.Campo3;
     if ( !rut )
     {
         return res.json({
