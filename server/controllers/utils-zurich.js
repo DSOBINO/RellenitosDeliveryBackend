@@ -34,10 +34,7 @@ const desplegarCG = async ( req, res = response ) => {
 //    ok:true,
 //    googleUser,
         res.status(200).json({
-            ok : true,
-            input : req.body,
-            objResultado,
-            fin : true         
+            objResultado
         });
 }
 
