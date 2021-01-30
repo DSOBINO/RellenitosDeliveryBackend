@@ -1,81 +1,21 @@
-{   
+{
     "P1" : {
-            "ID_Producto": "MIX20",
+            "ID_Producto": "P00001_MR",
             "Flag_Activado_Numero": "1",
-            "Titulo": "MIX Para 2",
-            "SubTitulo_1": "2 Platos en 1, come hasta más no poder",
-            "SubTitulo_2": "Delicias tradicionales árabes",
+            "Titulo": "Mixto de Rellenos",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
             "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_1.PNG?alt=media&token=33d2eb35-bd47-4426-87bb-ebc2d2938daa",
             "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_1.PNG?alt=media&token=33d2eb35-bd47-4426-87bb-ebc2d2938daa",
-            "Nombre": "Mix para 2",
+            "Nombre": "Mixto de Rellenos",
             "Precio_Actual_Numero": "12000",
             "Precio_Antes_Numero": "13000",
             "Descuento_Numero": "",
-            "Fecha_Inicio": "20200830",
-            "Fecha_Termino": "20200918",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
             "Detalle_Base": [
                 {
-                    "ID_Producto": "PARE1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Papas Rellenas",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/papa_01.png?alt=media&token=de73110c-10dd-409d-b4de-4a5506d0a961",
-                    "Foto_2" : ""
-
-                },
-                {
-                    "ID_Producto": "ZARE1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Zapallitos Italianos Relenos",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/zapallito_01.png?alt=media&token=4fa68322-1afa-47fd-93bd-e2aaca9bce97",
-                    "Foto_2" : ""
-
-                },
-                {
-                    "ID_Producto": "PIMO1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Pimiento Morrón Relleno",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/pimiento_01.png?alt=media&token=a1ed690b-98b4-4d18-ba0f-cf5eeddd2626",
-                    "Foto_2" : ""
-
-                },
-                {
-                    "ID_Producto": "AJRE1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Ají Relleno",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/aji_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
-                    "Foto_2" : ""
-
-                },
-                {
-                    "ID_Producto": "HOPA1",
+                    "ID_Producto": "I00001_HP",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
@@ -87,96 +27,29 @@
                     "Valor_Adelante" : "1",
                     "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/hojadeparra_01.png?alt=media&token=f3ef3316-38cf-4ab7-b5c6-6610fd2fbca9",
                     "Foto_2" : ""
-
-                }
-            ],
-            "Detalle_Agregado": [
+                },
                 {
-                    "ID_Producto": "SAYO1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Salsas",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
-                }
-            ],
-            "Detalle_Extras": [
-                {
-                    "ID_Producto": "SEES1",
+                    "ID_Producto": "I00002_PR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "4",
-                    "Titulo": "Servilletas Estándar",
+                    "Titulo": "Papas Rellenas",
                     "SubTitulo": "",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
-                },
-                {
-                    "ID_Producto": "CAME1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Cajas",
-                    "SubTitulo": "Elegantes Cajas de Cartón con Cinta Roja",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
-                }
-            ]
-        },
-        "P2" : {
-            "ID_Producto": "PROM1",
-            "Flag_Activado_Numero": "1",
-            "Titulo": "Promo #1",
-            "SubTitulo_1": "Plato con deliciosas Alcachofas, Kubbe crudito, papas rellenas. ¡Lo disfrutarás!",
-            "SubTitulo_2": "Delicias tradicionales árabes",
-            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_2.PNG?alt=media&token=07dd0c20-0924-4f0b-8076-b571ca9e445d",
-            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_2.PNG?alt=media&token=07dd0c20-0924-4f0b-8076-b571ca9e445d",
-            "Nombre": "Promo #1",
-            "Precio_Actual_Numero": "10000",
-            "Precio_Antes_Numero": "11000",
-            "Descuento_Numero": "",
-            "Fecha_Inicio": "20200830",
-            "Fecha_Termino": "20200918",
-            "Detalle_Base": [
-                {
-                    "ID_Producto": "ALCR1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Alcachofas Rellenas",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alcachofa_01.png?alt=media&token=77ac974f-5829-4c46-930d-fb2e938e8bdd",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/papa_01.png?alt=media&token=de73110c-10dd-409d-b4de-4a5506d0a961",
                     "Foto_2" : ""
 
                 },
                 {
-                    "ID_Producto": "ZARE1",
+                    "ID_Producto": "I00003_ZR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Zapallitos Italianos Relenos",
+                    "Cantidad_Numero": "2",
+                    "Titulo": "Zapallitos Italianos Rellenos",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
@@ -185,202 +58,190 @@
                     "Foto_2" : ""
 
                 },
+
                 {
-                    "ID_Producto": "PARE1",
+                    "ID_Producto": "I00005_BR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "2",
-                    "Titulo": "Papas Rellenas",
+                    "Titulo": "Berenjena Rellena",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/papa_01.png?alt=media&token=de73110c-10dd-409d-b4de-4a5506d0a961",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/berenjena_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
                     "Foto_2" : ""
-
-                }
-            ],
-            "Detalle_Agregado": [
-                {
-                    "ID_Producto": "SAYO1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Salsas",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
-                }
-            ],
-            "Detalle_Extras": [
-                {
-                    "ID_Producto": "SEES1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "4",
-                    "Titulo": "Servilletas Estándar",
-                    "SubTitulo": "",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
                 },
                 {
-                    "ID_Producto": "CAME1",
+                    "ID_Producto": "I00004_AR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "2",
-                    "Titulo": "Cajas",
-                    "SubTitulo": "Elegantes Cajas de Cartón con Cinta Roja",
+                    "Titulo": "Ají Relleno",
+                    "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
-                }
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/aji_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
+                    "Foto_2" : ""
+                }                
             ]
         },
-        "P3" : {
-            "ID_Producto": "PROM2",
+    "P2" : {
+            "ID_Producto": "P00002_P1",
             "Flag_Activado_Numero": "1",
-            "Titulo": "Promo #2",
-            "SubTitulo_1": "Plato con deliciosas Alcachofas, Kubbe crudito, papas rellenas. ¡Lo disfrutarás!",
-            "SubTitulo_2": "Delicias tradicionales árabes",
-            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_3.PNG?alt=media&token=7c3efc22-1427-4335-ba38-ce692971b5be",
-            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_3.PNG?alt=media&token=7c3efc22-1427-4335-ba38-ce692971b5be",
-            "Nombre": "Mix para 2",
+            "Titulo": "Promoción #1",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_2.PNG?alt=media&token=07dd0c20-0924-4f0b-8076-b571ca9e445d",
+            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_2.PNG?alt=media&token=07dd0c20-0924-4f0b-8076-b571ca9e445d",
+            "Nombre": "Promoción #1",
             "Precio_Actual_Numero": "10000",
             "Precio_Antes_Numero": "11000",
             "Descuento_Numero": "",
-            "Fecha_Inicio": "20200830",
-            "Fecha_Termino": "20200918",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
             "Detalle_Base": [
                 {
-                    "ID_Producto": "KUBR1",
+                    "ID_Producto": "I00006_KF",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Kubbe Frito",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Kubbe Frito 250",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
                     "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/kubbe_01.png?alt=media&token=d19be983-88a0-4087-8df6-51d2cead1860",
                     "Foto_2" : ""
-
                 },
                 {
-                    "ID_Producto": "ZARE1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Zapallitos Italianos Relenos",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/zapallito_01.png?alt=media&token=4fa68322-1afa-47fd-93bd-e2aaca9bce97",
-                    "Foto_2" : ""
-
-                },
-                {
-                    "ID_Producto": "PIMO1",
+                    "ID_Producto": "I00004_AR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "2",
-                    "Titulo": "Pimiento Morrón Relleno",
+                    "Titulo": "Ají Relleno",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/pimiento_01.png?alt=media&token=a1ed690b-98b4-4d18-ba0f-cf5eeddd2626",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/aji_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
                     "Foto_2" : ""
-
                 },
                 {
-                    "ID_Producto": "PARE1",
+                    "ID_Producto": "I00002_PR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "2",
                     "Titulo": "Papas Rellenas",
-                    "SubTitulo": " ",
+                    "SubTitulo": "",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
                     "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/papa_01.png?alt=media&token=de73110c-10dd-409d-b4de-4a5506d0a961",
                     "Foto_2" : ""
-
                 }
-            ],
-            "Detalle_Agregado": [
+            ]
+        },
+    "P3" : {
+            "ID_Producto": "P00003_P3",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Promoción #2",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_2.PNG?alt=media&token=07dd0c20-0924-4f0b-8076-b571ca9e445d",
+            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_2.PNG?alt=media&token=07dd0c20-0924-4f0b-8076-b571ca9e445d",
+            "Nombre": "Promoción #1",
+            "Precio_Actual_Numero": "10000",
+            "Precio_Antes_Numero": "11000",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
                 {
-                    "ID_Producto": "SAYO1",
+                    "ID_Producto": "I00006_KF",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Salsas",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Kubbe Frito 250",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
-                }
-            ],
-            "Detalle_Extras": [
-                {
-                    "ID_Producto": "SEES1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "4",
-                    "Titulo": "Servilletas Estándar",
-                    "SubTitulo": "",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/kubbe_01.png?alt=media&token=d19be983-88a0-4087-8df6-51d2cead1860",
+                    "Foto_2" : ""
                 },
                 {
-                    "ID_Producto": "CAME1",
+                    "ID_Producto": "I00007_F",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "2",
-                    "Titulo": "Cajas",
-                    "SubTitulo": "Elegantes Cajas de Cartón con Cinta Roja",
+                    "Cantidad_Numero": "10",
+                    "Titulo": "Falafel",
+                    "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/aji_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
+                    "Foto_2" : ""
                 }
             ]
-        }, 
-        "P4" : {
-            "ID_Producto": "CADU1",
+        },
+    "P4" : {
+            "ID_Producto": "P00005_P",
             "Flag_Activado_Numero": "1",
-            "Titulo": "Cajita Dulzona",
+            "Titulo": "Promo Dulce #1",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_4.PNG?alt=media&token=a315a336-8bff-4878-8cbc-bec8128b7d83",
+            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_4.PNG?alt=media&token=a315a336-8bff-4878-8cbc-bec8128b7d83",
+            "Nombre": "Promo Dulce #1",
+            "Precio_Actual_Numero": "10000",
+            "Precio_Antes_Numero": "",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00009_AM",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "36",
+                    "Titulo": "Alfajores Maizena",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
+                    "Foto_2" : ""
+                },
+                {
+                    "ID_Producto": "I000010_D",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "8",
+                    "Titulo": "Delicia",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
+                    "Foto_2" : ""
+                }                
+            ]
+        },
+    "P5" : {
+            "ID_Producto": "P00004_P4",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Caja Dulzona",
             "SubTitulo_1": "Cajita con delikatessen nacionales. ¡Lo disfrutarás!",
             "SubTitulo_2": "Delicias tradicionales chilenas",
             "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_4.PNG?alt=media&token=a315a336-8bff-4878-8cbc-bec8128b7d83",
@@ -393,7 +254,7 @@
             "Fecha_Termino": "20200918",
             "Detalle_Base": [
                 {
-                    "ID_Producto": "PIL26",
+                    "ID_Producto": "I00008_PL",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
@@ -408,186 +269,591 @@
 
                 },
                 {
-                    "ID_Producto": "ALMA1",
+                    "ID_Producto": "I000010_D",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "10 Alfajores Manjar",
+                    "Cantidad_Numero": "3",
+                    "Titulo": "Delicia",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
                     "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
                     "Foto_2" : ""
-
-                },
+                },                
                 {
-                    "ID_Producto": "GACA1",
+                    "ID_Producto": "I00009_AM",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "1",
-                    "Titulo": "Galletas Caseras 250g",
+                    "Titulo": "18 Alfajores Maizena",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/galleta_01.png?alt=media&token=15cae90c-733b-4104-8807-a986aaa2a337",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
                     "Foto_2" : ""
-
                 }
-            ],
-            "Detalle_Agregado": [
-            ],
-            "Detalle_Extras": [
+            ]
+        },
+        "P6" : {    
+            "ID_Producto": "P00006_HP",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Hojas de Parra (25)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Promoción #1",
+            "Precio_Actual_Numero": "7990",
+            "Precio_Antes_Numero": "6990",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
                 {
-                    "ID_Producto": "CARE1",
+                    "ID_Producto": "I00001_HP",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Cajas",
+                    "Cantidad_Numero": "25",
+                    "Titulo": "Hojas de Parra (25)",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/hojadeparra_01.png?alt=media&token=f3ef3316-38cf-4ab7-b5c6-6610fd2fbca9",
+                    "Foto_2" : ""
+                }
+            ]
+        },
+        "P7" : {
+            "ID_Producto": "P00007_PR",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Papas Rellenas (6)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Papas Rellenas (6)",
+            "Precio_Actual_Numero": "6990",
+            "Precio_Antes_Numero": "7990",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00002_PR",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "6",
+                    "Titulo": "Papas Rellenas",
                     "SubTitulo": "",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/papa_01.png?alt=media&token=de73110c-10dd-409d-b4de-4a5506d0a961",
+                    "Foto_2" : ""
                 }
             ]
         },
-        "P5" : {
-            "ID_Producto": "PRDU1",
+        "P8" : {
+            "ID_Producto": "P00008_ZR",
             "Flag_Activado_Numero": "1",
-            "Titulo": "Promo Dulce #1",
-            "SubTitulo_1": "Cajita con delikatessen nacionales. ¡Lo disfrutarás!",
-            "SubTitulo_2": "Delicias tradicionales Chilenas",
-            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_5.PNG?alt=media&token=f1ed8e71-0aa6-4fac-af9b-a330aea5070f",
-            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/promo_5.PNG?alt=media&token=f1ed8e71-0aa6-4fac-af9b-a330aea5070f",
-            "Nombre": "Promo Dulce #1",
+            "Titulo": "Zapallos Rellenos (6)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Zapallos Rellenos (6)",
+            "Precio_Actual_Numero": "6990",
+            "Precio_Antes_Numero": "7990",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00003_ZR",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "6",
+                    "Titulo": "Zapallitos Italianos Rellenos",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/zapallito_01.png?alt=media&token=4fa68322-1afa-47fd-93bd-e2aaca9bce97",
+                    "Foto_2" : ""
+                }
+            ]
+        },
+        "P9" : {
+            "ID_Producto": "P00009_B",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Berenjenas (6)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Berenjenas (6)",
+            "Precio_Actual_Numero": "6990",
+            "Precio_Antes_Numero": "7990",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00005_BR",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "6",
+                    "Titulo": "Berenjena Rellena",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/berenjena_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
+                    "Foto_2" : ""
+                }
+            ]
+        },
+        "P10" : {
+            "ID_Producto": "P000010_R",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Repollos (15)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Repollos (15)",
+            "Precio_Actual_Numero": "6990",
+            "Precio_Antes_Numero": "7990",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000011_R",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "15",
+                    "Titulo": "Repollos",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/berenjena_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
+                    "Foto_2" : ""
+                }
+            ]
+        },
+        "P11" : {
+            "ID_Producto": "P000011_KF",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Kubbe (250g)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Kubbe (250g)",
             "Precio_Actual_Numero": "5000",
-            "Precio_Antes_Numero": "",
+            "Precio_Antes_Numero": "5000",
             "Descuento_Numero": "",
-            "Fecha_Inicio": "20200830",
-            "Fecha_Termino": "20200918",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
             "Detalle_Base": [
                 {
-                    "ID_Producto": "ALMA2",
+                    "ID_Producto": "I00006_KF",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "1",
-                    "Titulo": "18 Alfajores Manjar",
+                    "Titulo": "Kubbe Frito 250",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/kubbe_01.png?alt=media&token=d19be983-88a0-4087-8df6-51d2cead1860",
                     "Foto_2" : ""
-
-                },
-                {
-                    "ID_Producto": "GACA1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Galletas Caseras 250g",
-                    "SubTitulo": " ",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/galleta_01.png?alt=media&token=15cae90c-733b-4104-8807-a986aaa2a337",
-                    "Foto_2" : ""
-
-                }
-            ],
-            "Detalle_Agregado": [
-            ],
-            "Detalle_Extras": [
-                {
-                    "ID_Producto": "CARE1",
-                    "Flag_Activado_Numero": "1",
-                    "Prioridad" : "1",
-                    "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Cajas",
-                    "SubTitulo": "",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
-                    "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
-
                 }
             ]
         },
-        "P6" : {
-            "ID_Producto": "PRDU2",
+        "P12" : {
+            "ID_Producto": "P000011_KR",
             "Flag_Activado_Numero": "1",
-            "Titulo": "Promo Dulce #2",
-            "SubTitulo_1": "Cajita con delikatessen nacionales. ¡Lo disfrutarás!",
-            "SubTitulo_2": "Delicias tradicionales Chilenas",
-            "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-            "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-            "Nombre": "Promo Dulce #2",
-            "Precio_Actual_Numero": "10000",
-            "Precio_Antes_Numero": "",
+            "Titulo": "Kubbe relleno (para 3 pers.)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Kubbe relleno (para 3 pers.)",
+            "Precio_Actual_Numero": "8000",
+            "Precio_Antes_Numero": "8000",
             "Descuento_Numero": "",
-            "Fecha_Inicio": "20200830",
-            "Fecha_Termino": "20200918",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
             "Detalle_Base": [
                 {
-                    "ID_Producto": "ALMA3",
+                    "ID_Producto": "I000012_KR",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "1",
-                    "Titulo": "Caja 28 Alfajores Manjar",
+                    "Titulo": "Kubbe Relleno",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/kubbe_01.png?alt=media&token=d19be983-88a0-4087-8df6-51d2cead1860",
+                    "Foto_2" : ""
+                }
+            ]
+        },
+        "P13" : {
+            "ID_Producto": "P000012_AR",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Ají Relleno (6)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Ají Relleno (6)",
+            "Precio_Actual_Numero": "6990",
+            "Precio_Antes_Numero": "6990",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00004_AR",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "6",
+                    "Titulo": "Ají Relleno",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/aji_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
+                    "Foto_2" : ""
+                }       
+            ]
+        },
+        "P14" : {
+            "ID_Producto": "P000013_F",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Falafel (12)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Falafel (12)",
+            "Precio_Actual_Numero": "5500",
+            "Precio_Antes_Numero": "5500",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00007_F",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "12",
+                    "Titulo": "Falafel",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/aji_01.png?alt=media&token=28bed007-95fe-49b6-9c4d-902ae3873cee",
+                    "Foto_2" : ""
+                }   
+            ]
+        },
+        "P15" : {
+            "ID_Producto": "P000014_M",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Mamul (1)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Mamul (1)",
+            "Precio_Actual_Numero": "800",
+            "Precio_Antes_Numero": "800",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000013_M",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Mamul",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "",
+                    "Foto_2" : ""
+                }   
+            ]
+        },
+        "P16" : {
+            "ID_Producto": "P000015_M",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Mamul (12)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Mamul (12)",
+            "Precio_Actual_Numero": "9000",
+            "Precio_Antes_Numero": "9000",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000014_M",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "12",
+                    "Titulo": "Mamul",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "",
+                    "Foto_2" : ""
+                }   
+            ]
+        },                                                                                                                                                                                      
+        "P17" : {
+            "ID_Producto": "P000016_HAL",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Hariz Al-Lawz (12)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Hariz Al-Lawz (12)",
+            "Precio_Actual_Numero": "9600",
+            "Precio_Antes_Numero": "9600",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000015_HAL",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "12",
+                    "Titulo": "Hariz Al-Lawz",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "",
+                    "Valor_Unidad": "",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "",
+                    "Foto_2" : ""
+                }   
+            ]
+        }, 
+        "P18" : {
+            "ID_Producto": "P000017_PL",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Pie de Limon (26cm)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Pie de Limon (26cm)",
+            "Precio_Actual_Numero": "5500",
+            "Precio_Antes_Numero": "5500",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I00008_PL",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Pié de Limon",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "26",
+                    "Valor_Unidad": "cm",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proximamente.png?alt=media&token=9f48669b-4875-4436-84df-97cfa0dbeb8f",
+                    "Foto_2" : ""
+                }
+            ]
+        },
+        "P19" : {
+            "ID_Producto": "P000018_D",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Delicias (1)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Delicias (1)",
+            "Precio_Actual_Numero": "400",
+            "Precio_Antes_Numero": "400",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000010_D",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Delicia",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
                     "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
                     "Foto_2" : ""
-
-                },
+                }   
+            ]
+        },
+        "P20" : {
+            "ID_Producto": "P000018_D",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Alfajores de Maizena (18)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Alfajores de Maizena (18)",
+            "Precio_Actual_Numero": "3500",
+            "Precio_Antes_Numero": "3500",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
                 {
-                    "ID_Producto": "GACA2",
+                    "ID_Producto": "I00009_AM",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
-                    "Cantidad_Numero": "1",
-                    "Titulo": "Caja Galletas Caseras 500g",
+                    "Cantidad_Numero": "18",
+                    "Titulo": "Alfajores Maizena",
                     "SubTitulo": " ",
                     "Valor_Medida": "",
                     "Valor_Unidad": "",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/galleta_01.png?alt=media&token=15cae90c-733b-4104-8807-a986aaa2a337",
+                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/alfajor_01.png?alt=media&token=d5039bc5-f3b5-4e15-8b0c-05fa3faec9ff",
                     "Foto_2" : ""
-
                 }
-            ],
-            "Detalle_Agregado": [
-            ],
-            "Detalle_Extras": [
+            ]
+    },    
+    "P21" : {
+            "ID_Producto": "P000019_GS",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Galletas Surtidas (250 gr)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Galletas Surtidas (250 gr)",
+            "Precio_Actual_Numero": "3000",
+            "Precio_Antes_Numero": "3000",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
                 {
-                    "ID_Producto": "CARE1",
+                    "ID_Producto": "I000016_GS",
                     "Flag_Activado_Numero": "1",
                     "Prioridad" : "1",
                     "Destacado" : "1",
                     "Cantidad_Numero": "1",
-                    "Titulo": "Cajas",
-                    "SubTitulo": "",
-                    "Valor_Medida": "",
-                    "Valor_Unidad": "",
+                    "Titulo": "Galletas Surtidas",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "gr",
+                    "Valor_Unidad": "250",
                     "Valor_Adelante" : "1",
-                    "Foto_1" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90",
-                    "Foto_2" : "https://firebasestorage.googleapis.com/v0/b/rellenitosdelivery01.appspot.com/o/proimo_6.PNG?alt=media&token=7f64976b-d4df-46b4-aa3d-f6ca5ce25f90"
+                    "Foto_1" : "",
+                    "Foto_2" : ""
                 }
             ]
-        }        
-    
+    },
+    "P22" : {
+            "ID_Producto": "P000020_GS",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Galletas Surtidas (500 gr)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Galletas Surtidas (500 gr)",
+            "Precio_Actual_Numero": "5000",
+            "Precio_Antes_Numero": "5000",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000016_GS",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Galletas Surtidas",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "gr",
+                    "Valor_Unidad": "500",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "",
+                    "Foto_2" : ""
+                }
+            ]
+    },
+    "P23" : {
+            "ID_Producto": "P000021_GS",
+            "Flag_Activado_Numero": "1",
+            "Titulo": "Galletas Surtidas (1 Kg)",
+            "SubTitulo_1": "",
+            "SubTitulo_2": "",
+            "Foto_1" : "",
+            "Foto_2" : "",
+            "Nombre": "Galletas Surtidas (1 Kg)",
+            "Precio_Actual_Numero": "10000",
+            "Precio_Antes_Numero": "10000",
+            "Descuento_Numero": "",
+            "Fecha_Inicio": "20210101",
+            "Fecha_Termino": "20211231",
+            "Detalle_Base": [
+                {
+                    "ID_Producto": "I000016_GS",
+                    "Flag_Activado_Numero": "1",
+                    "Prioridad" : "1",
+                    "Destacado" : "1",
+                    "Cantidad_Numero": "1",
+                    "Titulo": "Galletas Surtidas",
+                    "SubTitulo": " ",
+                    "Valor_Medida": "gr",
+                    "Valor_Unidad": "1000",
+                    "Valor_Adelante" : "1",
+                    "Foto_1" : "",
+                    "Foto_2" : ""
+                }
+            ]
+    }  
 }
