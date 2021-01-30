@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(bodyParser.json());
 
-//app.use('/', require('./routes/utils'));
+
 /*
 app.get('/', function (req, res) {
     //res.send('Hola Mundo');
